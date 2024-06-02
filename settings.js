@@ -15,9 +15,9 @@ global.APIs = {
    alfa: 'https://api.zeeoneofc.my.id', //apabila link api eror, segera laporkan ke owner
 }
 
-//buy apikey premium 0887435047326
+//buy apikey premium 088743504
 // Free apikey (silahkan login terus ganti V12 dgn apikey lu)
-global.APIKeys = {
+global.APIKeys = {ZaSAFxtqrPRix2L
    'https://api.zeeoneofc.my.id': 'V12', // 👉 login https://api.zeeoneofc.my.id to get apikey
 }
 global.sewabotnya = `
@@ -28,9 +28,9 @@ global.firtsChat = true //send firts message to new user
 global.autoread = true // auto read message
 global.antidelete = false // anti delete
 global.antiviewonce = true // anti view once
-global.autobio = false //auto ganti bio
+global.autobio = true //auto ganti bio
 global.anticall = true //anti call, jika true maka org yg nelpon bot auto di blokir
-global.userRegister = false
+global.userRegister = true
 global.autoblok212 = false //ubah jadi true biar nmr 212 di blok sama bot
 global.autolevelup = true
 global.auto_antilink = false //jika true, bot (admin) otomatis menghapus pesan & mengeluarkan member yang mengirim link grup
@@ -54,19 +54,19 @@ global.language = indonesia //change indonesia to english if you don't understan
 
 // Other
 // Other
-global.botname = "Alphabot-Mdོ" //namabot kalian
+global.botname = "Zyxx-Mdོ" //namabot kalian
 global.ownername = "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×" //nama kalian
 global.myweb = "https://s.id/zeeoneofc" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/@ZeeoneOfc" //bebas asal jan hapus
 global.myweb2 = "https://s.id/zeeoneofc" //bebas
-global.email = "zeeoneofc@gmail.com" //bebas
+global.email = "zyxsesi@gmail.com" //bebas
 global.region = "Indonesia" //bebas
-global.timezone = 'Asia/Makassar' //  timezone wib
+global.timezone = 'Asia/Banten' //  timezone wib
 global.premium_fitur = ["ai", "openai", "chatgpt"] //tambahin aja sendiri, soalnya gk semua org mau fiturnya premium jadi gw buat kyk gini aja, biar bisa custom fitur mana aja yang bakal di jadiin premium
 global.badword_list = ["asu", "anjir"] //tambahin sendiri kata² nya, gunakan huruf kecil
-global.premium = ['62887435047326'] //premium user
-global.owner = ["62887435047326", "62887435047326"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = owner[0] + "@s.whatsapp.net"
+global.premium = ['6283176793414'] //premium user
+global.owner = ["6283176793414", "62887435047326"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = owner[6283176793414] + "@s.whatsapp.net"
 global.ownernomerr = "+"+ownernomer //tidak perlu di edit
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
@@ -76,7 +76,7 @@ global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
 global.packname = '© ' + botname //sticker wm ubah
 global.author = 'Created By ' + ownername //sticker wm ganti nama kalian
 global.sessionName = 'session'
-global.push_kontak_delay = 5000 //5 detik, 1000 = 1 detik
+global.push_kontak_delay = 6000 //5 detik, 1000 = 1 detik
 //type menu for menu
 global.typemenu = 'templateImage' //
 //type menu for downloadmenu, animemenu, etc
